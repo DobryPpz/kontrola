@@ -1,0 +1,1 @@
+abran.txt aoneline.txt branches.txt jeden.txt mbran.txt smile.txt zdalne alfa beta gamma master remotes/origin/master
