@@ -8,3 +8,5 @@ console.log(p1.listCoords());
 console.log(p1.dist(new Punkt(0,0,0)));
 const f = new Fibo();
 console.log(f.getFib(10));
+console.log("Pierwszy feature");
+console.log(f.getFib(13));
