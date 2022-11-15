@@ -1,149 +1,226 @@
-abedc85 HEAD@{0}: commit: master: screen-niby-graph.png
-19b0791 HEAD@{1}: merge trzeci: Merge made by the 'recursive' strategy.
-df53954 HEAD@{2}: merge test2: Merge made by the 'recursive' strategy.
-f102c14 HEAD@{3}: merge test1: Merge made by the 'recursive' strategy.
-4d7201c HEAD@{4}: merge pierwszy: Merge made by the 'recursive' strategy.
-8c88429 HEAD@{5}: merge drugi: Merge made by the 'recursive' strategy.
-9e4401d HEAD@{6}: merge czwarty: Merge made by the 'recursive' strategy.
-76c5bc0 HEAD@{7}: checkout: moving from test2 to master
-41c8ce3 HEAD@{8}: merge drugi: Merge made by the 'recursive' strategy.
-e0404a4 HEAD@{9}: checkout: moving from test1 to test2
-03935d9 HEAD@{10}: merge pierwszy: Merge made by the 'recursive' strategy.
-7adcb9f HEAD@{11}: checkout: moving from drugi to test1
-4cec7de HEAD@{12}: commit: drugi: bb.txt
-a7cdffd HEAD@{13}: checkout: moving from pierwszy to drugi
-bc8c90e HEAD@{14}: commit: pierwszy: aa.txt
-65a4bc2 HEAD@{15}: checkout: moving from trzeci to pierwszy
-0cc406f HEAD@{16}: merge test2: Merge made by the 'recursive' strategy.
-c0b92cf HEAD@{17}: checkout: moving from czwarty to trzeci
-6c93f04 HEAD@{18}: merge test1: Merge made by the 'recursive' strategy.
-0c8db4e HEAD@{19}: checkout: moving from test2 to czwarty
-e0404a4 HEAD@{20}: commit: test2: b.txt
-76c5bc0 HEAD@{21}: checkout: moving from master to test2
-76c5bc0 HEAD@{22}: checkout: moving from test1 to master
-7adcb9f HEAD@{23}: commit: test1: a.txt
-76c5bc0 HEAD@{24}: checkout: moving from master to test1
-76c5bc0 HEAD@{25}: merge trzeci: Merge made by the 'recursive' strategy.
-f1269cf HEAD@{26}: merge pierwszy: Merge made by the 'recursive' strategy.
-f823fc7 HEAD@{27}: merge czwarty: Merge made by the 'recursive' strategy.
-d8bbaee HEAD@{28}: checkout: moving from trzeci to master
-c0b92cf HEAD@{29}: checkout: moving from czwarty to trzeci
-0c8db4e HEAD@{30}: merge drugi: Merge made by the 'recursive' strategy.
-4b1aacd HEAD@{31}: checkout: moving from trzeci to czwarty
-c0b92cf HEAD@{32}: merge pierwszy: Merge made by the 'recursive' strategy.
-d69ce25 HEAD@{33}: checkout: moving from czwarty to trzeci
-4b1aacd HEAD@{34}: commit: czwarty: 400.txt
-853847a HEAD@{35}: checkout: moving from trzeci to czwarty
-d69ce25 HEAD@{36}: commit: trzeci: 300.txt
-6ca1129 HEAD@{37}: checkout: moving from drugi to trzeci
-a7cdffd HEAD@{38}: commit: drugi: 200.txt
-261a22e HEAD@{39}: checkout: moving from pierwszy to drugi
-65a4bc2 HEAD@{40}: commit: pierwszy: 100.txt
-a0cbec4 HEAD@{41}: checkout: moving from drugi to pierwszy
-261a22e HEAD@{42}: merge pierwszy: Merge made by the 'recursive' strategy.
-daa8436 HEAD@{43}: checkout: moving from czwarty to drugi
-853847a HEAD@{44}: merge trzeci: Merge made by the 'recursive' strategy.
-3646cb9 HEAD@{45}: commit: czwarty: 40.txt
-36a94a4 HEAD@{46}: checkout: moving from trzeci to czwarty
-6ca1129 HEAD@{47}: commit: trzeci: 30.txt
-23270f2 HEAD@{48}: checkout: moving from drugi to trzeci
-daa8436 HEAD@{49}: commit: drugi: 20.txt
-7db5dcb HEAD@{50}: checkout: moving from pierwszy to drugi
-a0cbec4 HEAD@{51}: commit: pierwszy: 10.txt
-848b5fa HEAD@{52}: checkout: moving from trzeci to pierwszy
-23270f2 HEAD@{53}: merge drugi: Merge made by the 'recursive' strategy.
-06b206f HEAD@{54}: checkout: moving from czwarty to trzeci
-36a94a4 HEAD@{55}: merge pierwszy: Merge made by the 'recursive' strategy.
-59d7931 HEAD@{56}: commit: czwarty: 4.txt
-efb3eb5 HEAD@{57}: checkout: moving from trzeci to czwarty
-06b206f HEAD@{58}: commit: trzeci: 3.txt
-127aed6 HEAD@{59}: checkout: moving from drugi to trzeci
-7db5dcb HEAD@{60}: commit: drugi: 2.txt
-44ffc43 HEAD@{61}: checkout: moving from pierwszy to drugi
-848b5fa HEAD@{62}: commit: pierwszy: 1.txt
-819921d HEAD@{63}: checkout: moving from master to pierwszy
-d8bbaee HEAD@{64}: merge czwarty: Merge made by the 'recursive' strategy.
-9725257 HEAD@{65}: checkout: moving from czwarty to master
-efb3eb5 HEAD@{66}: merge trzeci: Merge made by the 'recursive' strategy.
-5a13ca7 HEAD@{67}: checkout: moving from trzeci to czwarty
-127aed6 HEAD@{68}: merge pierwszy: Merge made by the 'recursive' strategy.
-e907051 HEAD@{69}: checkout: moving from czwarty to trzeci
-5a13ca7 HEAD@{70}: merge drugi: Merge made by the 'recursive' strategy.
-b4e68b3 HEAD@{71}: checkout: moving from pierwszy to czwarty
-819921d HEAD@{72}: commit: pierwszy: jeden2
-48e5cb3 HEAD@{73}: checkout: moving from drugi to pierwszy
-44ffc43 HEAD@{74}: commit: drugi: dwa2
-2519335 HEAD@{75}: checkout: moving from czwarty to drugi
-b4e68b3 HEAD@{76}: commit: czwarty: cztery
-9725257 HEAD@{77}: checkout: moving from master to czwarty
-9725257 HEAD@{78}: checkout: moving from trzeci to master
-e907051 HEAD@{79}: commit: trzeci: trzy
-9725257 HEAD@{80}: checkout: moving from master to trzeci
-9725257 HEAD@{81}: checkout: moving from pierwszy to master
-48e5cb3 HEAD@{82}: merge drugi: Merge made by the 'recursive' strategy.
-9cbadb6 HEAD@{83}: checkout: moving from drugi to pierwszy
-2519335 HEAD@{84}: commit: drugi: dwa
-9725257 HEAD@{85}: checkout: moving from master to drugi
-9725257 HEAD@{86}: checkout: moving from pierwszy to master
-9cbadb6 HEAD@{87}: commit: pierwszy: jeden
-9725257 HEAD@{88}: checkout: moving from master to pierwszy
-9725257 HEAD@{89}: checkout: moving from alfa to master
-805f9e5 HEAD@{90}: checkout: moving from master to alfa
-9725257 HEAD@{91}: checkout: moving from alfa to master
-805f9e5 HEAD@{92}: checkout: moving from master to alfa
-9725257 HEAD@{93}: checkout: moving from alfa to master
-805f9e5 HEAD@{94}: checkout: moving from master to alfa
-9725257 HEAD@{95}: commit (merge): mergeMA
-88cc3cc HEAD@{96}: commit: MASTER
-789675b HEAD@{97}: checkout: moving from alfa to master
-805f9e5 HEAD@{98}: commit: ALFA
-dcf5b14 HEAD@{99}: checkout: moving from master to alfa
-789675b HEAD@{100}: commit: amgraph
-d5e0db8 HEAD@{101}: commit: amdiff
-098fc07 HEAD@{102}: checkout: moving from beta to master
-58611fb HEAD@{103}: checkout: moving from master to beta
-098fc07 HEAD@{104}: checkout: moving from gamma to master
-b755761 HEAD@{105}: checkout: moving from master to gamma
-098fc07 HEAD@{106}: checkout: moving from gamma to master
-b755761 HEAD@{107}: merge alfa: Merge made by the 'recursive' strategy.
-9eb1d2f HEAD@{108}: checkout: moving from alfa to gamma
-dcf5b14 HEAD@{109}: commit: branches
-766a2b2 HEAD@{110}: checkout: moving from gamma to alfa
-9eb1d2f HEAD@{111}: commit: dgraph
-098fc07 HEAD@{112}: checkout: moving from master to gamma
-098fc07 HEAD@{113}: checkout: moving from beta to master
-58611fb HEAD@{114}: commit: graph
-098fc07 HEAD@{115}: checkout: moving from master to beta
-098fc07 HEAD@{116}: checkout: moving from alfa to master
-766a2b2 HEAD@{117}: commit: aoneline
-c53965d HEAD@{118}: checkout: moving from master to alfa
-098fc07 HEAD@{119}: commit: moneline
-79a469a HEAD@{120}: checkout: moving from alfa to master
-c53965d HEAD@{121}: checkout: moving from master to alfa
-79a469a HEAD@{122}: commit (merge): naprawiony konflikt mbran.txt (wybrane MNO)
-973e42d HEAD@{123}: checkout: moving from alfa to master
-c53965d HEAD@{124}: commit: aMNO
-0e812c3 HEAD@{125}: checkout: moving from master to alfa
-973e42d HEAD@{126}: commit: JKL
-1fede81 HEAD@{127}: merge alfa: Merge made by the 'recursive' strategy.
-ba48728 HEAD@{128}: checkout: moving from alfa to master
-0e812c3 HEAD@{129}: commit: aGHI
-fc08e1e HEAD@{130}: checkout: moving from master to alfa
-ba48728 HEAD@{131}: commit: GHI
-4b7a042 HEAD@{132}: merge alfa: Merge made by the 'recursive' strategy.
-1d14797 HEAD@{133}: checkout: moving from alfa to master
-fc08e1e HEAD@{134}: checkout: moving from master to alfa
-1d14797 HEAD@{135}: checkout: moving from alfa to master
-fc08e1e HEAD@{136}: checkout: moving from master to alfa
-1d14797 HEAD@{137}: checkout: moving from alfa to master
-fc08e1e HEAD@{138}: commit: DEF na alfa
-1d14797 HEAD@{139}: checkout: moving from master to alfa
-1d14797 HEAD@{140}: commit: mbran
-42f9238 HEAD@{141}: commit: Zadanie do wykładu 4. - start
-3490301 HEAD@{142}: pull: Merge made by the 'recursive' strategy.
-971f619 HEAD@{143}: commit: Nowy plik
-7e7f967 HEAD@{144}: commit: zdalne/prepos.txt
-fe1cb67 HEAD@{145}: pull: Fast-forward
-9fd595b HEAD@{146}: commit: Dodane pliki (JD)
-a0765af HEAD@{147}: commit: Zmiana (Sara)
-1a873bb HEAD@{148}: commit (initial): pierwszy commit
+c3d77d7 HEAD@{0}: checkout: moving from fibonacci to master
+c3d77d7 HEAD@{1}: checkout: moving from fibhotfix to fibonacci
+c3d77d7 HEAD@{2}: checkout: moving from fhotfix to fibhotfix
+c3d77d7 HEAD@{3}: checkout: moving from feature to fhotfix
+c3d77d7 HEAD@{4}: checkout: moving from develop to feature
+c3d77d7 HEAD@{5}: checkout: moving from fibonacci to develop
+c3d77d7 HEAD@{6}: merge master: Fast-forward
+ec304ab HEAD@{7}: checkout: moving from fibhotfix to fibonacci
+c3d77d7 HEAD@{8}: merge master: Fast-forward
+3225153 HEAD@{9}: checkout: moving from fhotfix to fibhotfix
+c3d77d7 HEAD@{10}: merge master: Fast-forward
+62e1d68 HEAD@{11}: checkout: moving from feature to fhotfix
+c3d77d7 HEAD@{12}: merge master: Fast-forward
+392dc7a HEAD@{13}: checkout: moving from develop to feature
+c3d77d7 HEAD@{14}: merge master: Fast-forward
+831c5e0 HEAD@{15}: checkout: moving from master to develop
+c3d77d7 HEAD@{16}: merge develop: Merge made by the 'recursive' strategy.
+ec304ab HEAD@{17}: checkout: moving from develop to master
+831c5e0 HEAD@{18}: commit (merge): merge feature do develop z rozwiązaniem konfliktów
+b81d7db HEAD@{19}: checkout: moving from feature to develop
+392dc7a HEAD@{20}: commit: Kolejny
+400e315 HEAD@{21}: checkout: moving from develop to feature
+b81d7db HEAD@{22}: merge fibhotfix: Merge made by the 'recursive' strategy.
+9bcb964 HEAD@{23}: checkout: moving from fibhotfix to develop
+3225153 HEAD@{24}: commit: Check is it fibo element
+9bcb964 HEAD@{25}: checkout: moving from develop to fibhotfix
+9bcb964 HEAD@{26}: merge fhotfix: Merge made by the 'recursive' strategy.
+ec304ab HEAD@{27}: checkout: moving from fhotfix to develop
+62e1d68 HEAD@{28}: commit: Następny feature
+ec304ab HEAD@{29}: checkout: moving from develop to fhotfix
+ec304ab HEAD@{30}: checkout: moving from feature to develop
+400e315 HEAD@{31}: commit: Fibor
+ce80c47 HEAD@{32}: commit: Trzeci feature
+ec304ab HEAD@{33}: checkout: moving from master to feature
+ec304ab HEAD@{34}: checkout: moving from fibonacci to master
+ec304ab HEAD@{35}: checkout: moving from feature to fibonacci
+ec304ab HEAD@{36}: checkout: moving from develop to feature
+ec304ab HEAD@{37}: checkout: moving from master to develop
+ec304ab HEAD@{38}: checkout: moving from fibonacci to master
+ec304ab HEAD@{39}: merge master: Fast-forward
+a50d629 HEAD@{40}: checkout: moving from feature to fibonacci
+ec304ab HEAD@{41}: merge master: Fast-forward
+fc6fd54 HEAD@{42}: checkout: moving from develop to feature
+ec304ab HEAD@{43}: merge master: Fast-forward
+97d6fc5 HEAD@{44}: checkout: moving from master to develop
+ec304ab HEAD@{45}: merge develop: Merge made by the 'recursive' strategy.
+7bded54 HEAD@{46}: checkout: moving from develop to master
+97d6fc5 HEAD@{47}: commit (merge): rozwiązanie konfliktu develop<-fibonacci
+ea67f27 HEAD@{48}: merge feature: Merge made by the 'recursive' strategy.
+9273096 HEAD@{49}: checkout: moving from feature to develop
+fc6fd54 HEAD@{50}: commit: 10
+df4c674 HEAD@{51}: checkout: moving from fibonacci to feature
+a50d629 HEAD@{52}: commit: 13
+65838ea HEAD@{53}: checkout: moving from feature to fibonacci
+df4c674 HEAD@{54}: merge develop: Merge made by the 'recursive' strategy.
+fdaac8e HEAD@{55}: checkout: moving from develop to feature
+9273096 HEAD@{56}: merge fibonacci: Merge made by the 'recursive' strategy.
+7bded54 HEAD@{57}: checkout: moving from master to develop
+7bded54 HEAD@{58}: checkout: moving from fibonacci to master
+65838ea HEAD@{59}: commit: Fibo
+7bded54 HEAD@{60}: checkout: moving from develop to fibonacci
+7bded54 HEAD@{61}: checkout: moving from feature to develop
+fdaac8e HEAD@{62}: commit: Drugi feature
+7bded54 HEAD@{63}: checkout: moving from develop to feature
+7bded54 HEAD@{64}: merge master: Fast-forward
+d9e1436 HEAD@{65}: checkout: moving from feature to develop
+7bded54 HEAD@{66}: merge master: Fast-forward
+a5e7dc7 HEAD@{67}: checkout: moving from master to feature
+7bded54 HEAD@{68}: merge develop: Merge made by the 'recursive' strategy.
+5ab9f8f HEAD@{69}: checkout: moving from develop to master
+d9e1436 HEAD@{70}: merge feature: Merge made by the 'recursive' strategy.
+b85d90a HEAD@{71}: commit: Punkt
+5ab9f8f HEAD@{72}: checkout: moving from master to develop
+5ab9f8f HEAD@{73}: checkout: moving from feature to master
+a5e7dc7 HEAD@{74}: commit: Pierwszy plik
+5ab9f8f HEAD@{75}: checkout: moving from master to feature
+5ab9f8f HEAD@{76}: commit: master: komendy.txt
+abedc85 HEAD@{77}: commit: master: screen-niby-graph.png
+19b0791 HEAD@{78}: merge trzeci: Merge made by the 'recursive' strategy.
+df53954 HEAD@{79}: merge test2: Merge made by the 'recursive' strategy.
+f102c14 HEAD@{80}: merge test1: Merge made by the 'recursive' strategy.
+4d7201c HEAD@{81}: merge pierwszy: Merge made by the 'recursive' strategy.
+8c88429 HEAD@{82}: merge drugi: Merge made by the 'recursive' strategy.
+9e4401d HEAD@{83}: merge czwarty: Merge made by the 'recursive' strategy.
+76c5bc0 HEAD@{84}: checkout: moving from test2 to master
+41c8ce3 HEAD@{85}: merge drugi: Merge made by the 'recursive' strategy.
+e0404a4 HEAD@{86}: checkout: moving from test1 to test2
+03935d9 HEAD@{87}: merge pierwszy: Merge made by the 'recursive' strategy.
+7adcb9f HEAD@{88}: checkout: moving from drugi to test1
+4cec7de HEAD@{89}: commit: drugi: bb.txt
+a7cdffd HEAD@{90}: checkout: moving from pierwszy to drugi
+bc8c90e HEAD@{91}: commit: pierwszy: aa.txt
+65a4bc2 HEAD@{92}: checkout: moving from trzeci to pierwszy
+0cc406f HEAD@{93}: merge test2: Merge made by the 'recursive' strategy.
+c0b92cf HEAD@{94}: checkout: moving from czwarty to trzeci
+6c93f04 HEAD@{95}: merge test1: Merge made by the 'recursive' strategy.
+0c8db4e HEAD@{96}: checkout: moving from test2 to czwarty
+e0404a4 HEAD@{97}: commit: test2: b.txt
+76c5bc0 HEAD@{98}: checkout: moving from master to test2
+76c5bc0 HEAD@{99}: checkout: moving from test1 to master
+7adcb9f HEAD@{100}: commit: test1: a.txt
+76c5bc0 HEAD@{101}: checkout: moving from master to test1
+76c5bc0 HEAD@{102}: merge trzeci: Merge made by the 'recursive' strategy.
+f1269cf HEAD@{103}: merge pierwszy: Merge made by the 'recursive' strategy.
+f823fc7 HEAD@{104}: merge czwarty: Merge made by the 'recursive' strategy.
+d8bbaee HEAD@{105}: checkout: moving from trzeci to master
+c0b92cf HEAD@{106}: checkout: moving from czwarty to trzeci
+0c8db4e HEAD@{107}: merge drugi: Merge made by the 'recursive' strategy.
+4b1aacd HEAD@{108}: checkout: moving from trzeci to czwarty
+c0b92cf HEAD@{109}: merge pierwszy: Merge made by the 'recursive' strategy.
+d69ce25 HEAD@{110}: checkout: moving from czwarty to trzeci
+4b1aacd HEAD@{111}: commit: czwarty: 400.txt
+853847a HEAD@{112}: checkout: moving from trzeci to czwarty
+d69ce25 HEAD@{113}: commit: trzeci: 300.txt
+6ca1129 HEAD@{114}: checkout: moving from drugi to trzeci
+a7cdffd HEAD@{115}: commit: drugi: 200.txt
+261a22e HEAD@{116}: checkout: moving from pierwszy to drugi
+65a4bc2 HEAD@{117}: commit: pierwszy: 100.txt
+a0cbec4 HEAD@{118}: checkout: moving from drugi to pierwszy
+261a22e HEAD@{119}: merge pierwszy: Merge made by the 'recursive' strategy.
+daa8436 HEAD@{120}: checkout: moving from czwarty to drugi
+853847a HEAD@{121}: merge trzeci: Merge made by the 'recursive' strategy.
+3646cb9 HEAD@{122}: commit: czwarty: 40.txt
+36a94a4 HEAD@{123}: checkout: moving from trzeci to czwarty
+6ca1129 HEAD@{124}: commit: trzeci: 30.txt
+23270f2 HEAD@{125}: checkout: moving from drugi to trzeci
+daa8436 HEAD@{126}: commit: drugi: 20.txt
+7db5dcb HEAD@{127}: checkout: moving from pierwszy to drugi
+a0cbec4 HEAD@{128}: commit: pierwszy: 10.txt
+848b5fa HEAD@{129}: checkout: moving from trzeci to pierwszy
+23270f2 HEAD@{130}: merge drugi: Merge made by the 'recursive' strategy.
+06b206f HEAD@{131}: checkout: moving from czwarty to trzeci
+36a94a4 HEAD@{132}: merge pierwszy: Merge made by the 'recursive' strategy.
+59d7931 HEAD@{133}: commit: czwarty: 4.txt
+efb3eb5 HEAD@{134}: checkout: moving from trzeci to czwarty
+06b206f HEAD@{135}: commit: trzeci: 3.txt
+127aed6 HEAD@{136}: checkout: moving from drugi to trzeci
+7db5dcb HEAD@{137}: commit: drugi: 2.txt
+44ffc43 HEAD@{138}: checkout: moving from pierwszy to drugi
+848b5fa HEAD@{139}: commit: pierwszy: 1.txt
+819921d HEAD@{140}: checkout: moving from master to pierwszy
+d8bbaee HEAD@{141}: merge czwarty: Merge made by the 'recursive' strategy.
+9725257 HEAD@{142}: checkout: moving from czwarty to master
+efb3eb5 HEAD@{143}: merge trzeci: Merge made by the 'recursive' strategy.
+5a13ca7 HEAD@{144}: checkout: moving from trzeci to czwarty
+127aed6 HEAD@{145}: merge pierwszy: Merge made by the 'recursive' strategy.
+e907051 HEAD@{146}: checkout: moving from czwarty to trzeci
+5a13ca7 HEAD@{147}: merge drugi: Merge made by the 'recursive' strategy.
+b4e68b3 HEAD@{148}: checkout: moving from pierwszy to czwarty
+819921d HEAD@{149}: commit: pierwszy: jeden2
+48e5cb3 HEAD@{150}: checkout: moving from drugi to pierwszy
+44ffc43 HEAD@{151}: commit: drugi: dwa2
+2519335 HEAD@{152}: checkout: moving from czwarty to drugi
+b4e68b3 HEAD@{153}: commit: czwarty: cztery
+9725257 HEAD@{154}: checkout: moving from master to czwarty
+9725257 HEAD@{155}: checkout: moving from trzeci to master
+e907051 HEAD@{156}: commit: trzeci: trzy
+9725257 HEAD@{157}: checkout: moving from master to trzeci
+9725257 HEAD@{158}: checkout: moving from pierwszy to master
+48e5cb3 HEAD@{159}: merge drugi: Merge made by the 'recursive' strategy.
+9cbadb6 HEAD@{160}: checkout: moving from drugi to pierwszy
+2519335 HEAD@{161}: commit: drugi: dwa
+9725257 HEAD@{162}: checkout: moving from master to drugi
+9725257 HEAD@{163}: checkout: moving from pierwszy to master
+9cbadb6 HEAD@{164}: commit: pierwszy: jeden
+9725257 HEAD@{165}: checkout: moving from master to pierwszy
+9725257 HEAD@{166}: checkout: moving from alfa to master
+805f9e5 HEAD@{167}: checkout: moving from master to alfa
+9725257 HEAD@{168}: checkout: moving from alfa to master
+805f9e5 HEAD@{169}: checkout: moving from master to alfa
+9725257 HEAD@{170}: checkout: moving from alfa to master
+805f9e5 HEAD@{171}: checkout: moving from master to alfa
+9725257 HEAD@{172}: commit (merge): mergeMA
+88cc3cc HEAD@{173}: commit: MASTER
+789675b HEAD@{174}: checkout: moving from alfa to master
+805f9e5 HEAD@{175}: commit: ALFA
+dcf5b14 HEAD@{176}: checkout: moving from master to alfa
+789675b HEAD@{177}: commit: amgraph
+d5e0db8 HEAD@{178}: commit: amdiff
+098fc07 HEAD@{179}: checkout: moving from beta to master
+58611fb HEAD@{180}: checkout: moving from master to beta
+098fc07 HEAD@{181}: checkout: moving from gamma to master
+b755761 HEAD@{182}: checkout: moving from master to gamma
+098fc07 HEAD@{183}: checkout: moving from gamma to master
+b755761 HEAD@{184}: merge alfa: Merge made by the 'recursive' strategy.
+9eb1d2f HEAD@{185}: checkout: moving from alfa to gamma
+dcf5b14 HEAD@{186}: commit: branches
+766a2b2 HEAD@{187}: checkout: moving from gamma to alfa
+9eb1d2f HEAD@{188}: commit: dgraph
+098fc07 HEAD@{189}: checkout: moving from master to gamma
+098fc07 HEAD@{190}: checkout: moving from beta to master
+58611fb HEAD@{191}: commit: graph
+098fc07 HEAD@{192}: checkout: moving from master to beta
+098fc07 HEAD@{193}: checkout: moving from alfa to master
+766a2b2 HEAD@{194}: commit: aoneline
+c53965d HEAD@{195}: checkout: moving from master to alfa
+098fc07 HEAD@{196}: commit: moneline
+79a469a HEAD@{197}: checkout: moving from alfa to master
+c53965d HEAD@{198}: checkout: moving from master to alfa
+79a469a HEAD@{199}: commit (merge): naprawiony konflikt mbran.txt (wybrane MNO)
+973e42d HEAD@{200}: checkout: moving from alfa to master
+c53965d HEAD@{201}: commit: aMNO
+0e812c3 HEAD@{202}: checkout: moving from master to alfa
+973e42d HEAD@{203}: commit: JKL
+1fede81 HEAD@{204}: merge alfa: Merge made by the 'recursive' strategy.
+ba48728 HEAD@{205}: checkout: moving from alfa to master
+0e812c3 HEAD@{206}: commit: aGHI
+fc08e1e HEAD@{207}: checkout: moving from master to alfa
+ba48728 HEAD@{208}: commit: GHI
+4b7a042 HEAD@{209}: merge alfa: Merge made by the 'recursive' strategy.
+1d14797 HEAD@{210}: checkout: moving from alfa to master
+fc08e1e HEAD@{211}: checkout: moving from master to alfa
+1d14797 HEAD@{212}: checkout: moving from alfa to master
+fc08e1e HEAD@{213}: checkout: moving from master to alfa
+1d14797 HEAD@{214}: checkout: moving from alfa to master
+fc08e1e HEAD@{215}: commit: DEF na alfa
+1d14797 HEAD@{216}: checkout: moving from master to alfa
+1d14797 HEAD@{217}: commit: mbran
+42f9238 HEAD@{218}: commit: Zadanie do wykładu 4. - start
+3490301 HEAD@{219}: pull: Merge made by the 'recursive' strategy.
+971f619 HEAD@{220}: commit: Nowy plik
+7e7f967 HEAD@{221}: commit: zdalne/prepos.txt
+fe1cb67 HEAD@{222}: pull: Fast-forward
+9fd595b HEAD@{223}: commit: Dodane pliki (JD)
+a0765af HEAD@{224}: commit: Zmiana (Sara)
+1a873bb HEAD@{225}: commit (initial): pierwszy commit
