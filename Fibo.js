@@ -11,6 +11,17 @@ class Fibo {
         }
         return b;
     }
+    checkIsItFiboElement(n){
+        let a = 0;
+        let b = 1;
+        if(n<=1) return true;
+        while(b < n){
+            let zm = a+b;
+            a = b;
+            b = zm;
+        }
+        return b==n;
+    }
 }
 
 module.exports = Fibo;
