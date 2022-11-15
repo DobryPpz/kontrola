@@ -10,3 +10,4 @@ const f = new Fibo();
 console.log(f.getFib(10));
 console.log("Pierwszy feature");
 console.log(f.getFib(13));
+console.log("Trzeci feature");
