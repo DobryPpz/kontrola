@@ -1,3 +1,1 @@
-for(let i=97;i<=122;i++){
-    console.log(String.fromCharCode(i));
-}
+console.log(new Array(26).fill(97).map((a,i)=>String.fromCharCode(a+i)).join(" "));
