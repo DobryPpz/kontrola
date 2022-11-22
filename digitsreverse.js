@@ -1,1 +1,0 @@
-console.log(new Array(10).fill(10).map((a,i)=>a-i-1).join(" "));
