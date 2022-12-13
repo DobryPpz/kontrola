@@ -32,7 +32,17 @@ thisdict =	{
 "les dents": "zęby",
 "Commerce": "handel",
 "invité": "gość",
-"zoo": "zoo"
+"zoo": "zoo",
+"auto": "samochód",
+"machine": "maszyna",
+"câble": "kabel",
+"piano": "fortepian",
+"violoncelle": "wiolonczela",
+"violon": "skrzypce",
+"guitare": "gitara",
+"couple": "para",
+"gecko": "gekon",
+"moniteur": "waran"
 }  	
 
 if sys.argv[1] in thisdict.keys():
