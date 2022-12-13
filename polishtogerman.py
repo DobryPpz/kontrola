@@ -22,7 +22,17 @@ thisdict =	{
 "terminal": "terminal",
 "samolot": "Flugzeug",
 "suchy":"trocken",
-"mokry":"nass"
+"mokry":"nass",
+"kąt": "winkel",
+"zespół": "Mannschaft",
+"niedźwiedź": "tragen",
+"książki": "Bücher",
+"nagroda": "vergeben",
+"gulasz": "gulasch",
+"zęby": "Zähne",
+"handel": "handeln",
+"gość": "gast",
+"zoo": "zoo"
 }  	
 
 if sys.argv[1] in thisdict.keys():
