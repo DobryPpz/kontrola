@@ -42,7 +42,17 @@ thisdict =	{
 "guitare": "gitara",
 "couple": "para",
 "gecko": "gekon",
-"moniteur": "waran"
+"moniteur": "waran",
+"Université": "uniwersytet",
+"classer": "klasa",
+"objet": "obiekt",
+"programmation": "programowanie",
+"méthode": "metoda",
+"fonction": "funkcja",
+"demande": "zapytanie",
+"base": "baza",
+"réponse": "odpowiedź",
+"transaction": "transakcja"
 }  	
 
 if sys.argv[1] in thisdict.keys():
