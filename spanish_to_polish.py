@@ -22,7 +22,7 @@ thisdict =	{
 "terminal": "Terminal",
 "samolot": "plano",
 "suchy": "seco",
-"mokry": "mojado"
+"mokry": "mojado",
 "kąt": "ángulo",
 "zespół": "equipo",
 "Niedźwiedź": "Llevar",
@@ -34,8 +34,6 @@ thisdict =	{
 "gość": "invitado",
 "zoo": "zoo"
 }  	
-
-
 if sys.argv[1] in thisdict.keys():
 	print(thisdict[sys.argv[1]])
 else: print("brak slowa w slowniku")

@@ -1,5 +1,6 @@
 import sys
 dict = {
+  
     "Winkel":"kąt",
     "Mannschaft":"zespół",
     "tragen":"niedźwiedź",
@@ -10,7 +11,18 @@ dict = {
     "handeln":"handel",
     "Gast":"gość",
     "zoo":"zoo",
+    "ale":"aber",
+    "to":"Dies",
+    "stół":"Tisch",
+    "drzwi":"Tür",
+    "czarny":"Schwarz",
+    "latarnia":"Laterne",
+    "szklanka":"Glas",
+    "głośnik":"Lautsprecher",
+    "papieros":"Zigarette",
+    "mysz":"Maus",
+    "kobieta":"Frau",
 
 
 }
-console.log(dict[sys.argv[1]])
+print(dict[sys.argv[1]])
