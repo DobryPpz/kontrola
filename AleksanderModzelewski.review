@@ -1,0 +1,4 @@
+Analiza pliku modzelewskicsv.py
+
+Kod napisany jest schludnie i nazwy zmiennych są samokomentujące się. 
+Zabrakło funkcji close(), zamykającej csvfile przed zakończeniem działania programu.
