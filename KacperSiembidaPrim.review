@@ -1,0 +1,4 @@
+Program "prime_numbers_up_to_n.py" działa tak jak powinien. Jako argument wywołania
+programu z konsoli podawana jest liczba n. Program jest zabazpieczony przed podaniem
+liczby ujemnej. Wynik działania programu to wypisanie listy liczb pierwszych od 2 do n.
+Jedynym malkamentem jest importowanie modułu "math", który jest nieużywany.
