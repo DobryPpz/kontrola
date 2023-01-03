@@ -1,0 +1,3 @@
+Skrypt parser_csv.py działa poprawnie. Wynik działania jest zgodny z oczekiwaniem,
+czyli wypisuje na ekran listę rekordów csv, gdzie każdy rekord również jest listą.
+Jedyny problem jest taki, że linia "line_count = 0" wydaje się zbędna.
