@@ -9,6 +9,16 @@ dict = {
     "ściana":"wand",
     "dom":"haus",
     "pies":"shundeite",
-    "kot":"katze"
+    "kot":"katze",
+    "dysk": "Scheibe",
+    "makieta": "modell",
+    "latawiec": "drachen",
+    "witaminy": "vitamine",
+    "leki": "Ängste",
+    "papierosy": "Zigaretten",
+    "pociąg": "zug",
+    "metro": "U-bahn",
+    "stolica": "hauptstadt",
+    "rak": "krebs"
 }
 print(dict[sys.argv[1]])
