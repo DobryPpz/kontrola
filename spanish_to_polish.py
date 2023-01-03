@@ -22,9 +22,18 @@ thisdict =	{
 "terminal": "Terminal",
 "samolot": "plano",
 "suchy": "seco",
-"mokry": "mojado"
+"mokry": "mojado",
+"kąt": "ángulo",
+"zespół": "equipo",
+"Niedźwiedź": "Llevar",
+"książki": "libros",
+"nagroda": "otorgar",
+"gulasz": "Estofado húngaro",
+"zęby": "dientes",
+"handel": "comercio",
+"gość": "invitado",
+"zoo": "zoo"
 }  	
-
 if sys.argv[1] in thisdict.keys():
 	print(thisdict[sys.argv[1]])
 else: print("brak slowa w slowniku")
