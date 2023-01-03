@@ -9,8 +9,6 @@ dict = {
     "ściana":"wand",
     "dom":"haus",
     "pies":"shundeite",
-    "kot":"katze",
-
-
+    "kot":"katze"
 }
-console.log(dict[sys.argv[1]])
+print(dict[sys.argv[1]])
