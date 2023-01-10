@@ -19,16 +19,6 @@ def sortAscending(listOfElements):
                 listOfElements[j+1] = temp 
                 
     return listOfElements
-    
-def sortDescending(listOfElements):
-    for i in range(len(listOfElements)):
-        for j in range(len(listOfElements)-1):
-            if listOfElements[j].name < listOfElements[j+1].name:
-                temp = listOfElements[j] 
-                listOfElements[j] = listOfElements[j+1] 
-                listOfElements[j+1] = temp 
-                
-    return listOfElements
 
 listOfNames = ['cyprian','eryk','adam','damian','bartosz','tomasz','maciej','krzysztof','marcin','michal','piotr','pawel','dawid','lukasz','mariusz','igor','wiktor','jerzy','waldemar','stanislaw','filip','konrad','mateusz','jaroslaw','slawomir']
 
@@ -38,4 +28,4 @@ for x in listOfNames:
     
     
     
-print(sortDescending(listOfElements))
+print(sortAscending(listOfElements))
