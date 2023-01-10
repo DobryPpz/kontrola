@@ -20,12 +20,27 @@ def sortAscending(listOfElements):
                 
     return listOfElements
 
-listOfNames = ['cyprian','eryk','adam','damian','bartosz','tomasz','maciej','krzysztof','marcin','michal','piotr','pawel','dawid','lukasz','mariusz','igor','wiktor','jerzy','waldemar','stanislaw','filip','konrad','mateusz','jaroslaw','slawomir']
+def removeEveryThird(listOfElements):
+    newListOfElements = []
+    for x in range(len(listOfElements)):
+        if x%3 == 2:
+            continue
+        newListOfElements.append(listOfElements[x])
+    return newListOfElements
+    
+listOfNames = ['cyprian','eryk','adam','damian','bartosz','tomasz','maciej','krzysztof','marcin','michal','piotr','pawel','dawid','lukasz','mariusz','igor','wiktor','jerzy','waldemar','stanislaw','filip','konrad','mateusz','jaroslaw','slawomir','zbigniew', 'radosław','sebastian', 'szymon', 'karol','artur','arkadiusz','przemysław','robert','andrzej']
 
 listOfElements = []
 for x in listOfNames:
     listOfElements.append(Element(x))
     
     
+print(sortAscending(listOfElements))
+listOfElements = removeEveryThird(sortAscending(listOfElements))
+print(listOfElements)
+
+listOfNames2 = ['janusz','marek','zofia','zuzanna','ada','katarzyna','barbara','kinga','karolina','erytrytol']
+for x in listOfNames2:
+    listOfElements.append(Element(x))
     
 print(sortAscending(listOfElements))
