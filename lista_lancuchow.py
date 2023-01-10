@@ -1,0 +1,1 @@
+lista_lancuchow = ["Ala", "ma", "kota", "a", "kot"]
