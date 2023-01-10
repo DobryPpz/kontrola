@@ -4,7 +4,7 @@ class Element:
         self.name = name
     
     def __str__(self):
-        return self.name+" "
+        return self.name
         
     def __repr__(self):
         return self.__str__()
@@ -20,8 +20,11 @@ def sortAscending(listOfElements):
                 
     return listOfElements
 
+listOfNames = ['cyprian','eryk','adam','damian','bartosz','tomasz','maciej','krzysztof','marcin','michal','piotr','pawel','dawid','lukasz','mariusz']
 listOfElements = []
-for x in ['cyprian','eryk','adam','damian','bartosz']:
+for x in listOfNames:
     listOfElements.append(Element(x))
+    
+    
     
 print(sortAscending(listOfElements))
