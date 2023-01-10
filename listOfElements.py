@@ -8,10 +8,20 @@ class Element:
         
     def __repr__(self):
         return self.__str__()
-    
+        
+
+def sortAscending(listOfElements):
+    for i in range(len(listOfElements)):
+        for j in range(len(listOfElements)-1):
+            if listOfElements[j].name > listOfElements[j+1].name:
+                temp = listOfElements[j] 
+                listOfElements[j] = listOfElements[j+1] 
+                listOfElements[j+1] = temp 
+                
+    return listOfElements
 
 listOfElements = []
 for x in ['cyprian','eryk','adam','damian','bartosz']:
     listOfElements.append(Element(x))
     
-print(listOfElements)
+print(sortAscending(listOfElements))
