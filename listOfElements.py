@@ -30,7 +30,7 @@ def sortDescending(listOfElements):
                 
     return listOfElements
 
-listOfNames = ['cyprian','eryk','adam','damian','bartosz','tomasz','maciej','krzysztof','marcin','michal','piotr','pawel','dawid','lukasz','mariusz']
+listOfNames = ['cyprian','eryk','adam','damian','bartosz','tomasz','maciej','krzysztof','marcin','michal','piotr','pawel','dawid','lukasz','mariusz','igor','wiktor','jerzy','waldemar','stanislaw']
 
 listOfElements = []
 for x in listOfNames:
