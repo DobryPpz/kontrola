@@ -7,7 +7,7 @@ for i in range(15):
 
 
 print(li)
-li.sort(reverse=True)
+li.sort()
 print(li)
 for i in range(5):
     li.append(random.randint(0,2000))
