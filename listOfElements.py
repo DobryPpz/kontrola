@@ -39,7 +39,7 @@ print(sortAscending(listOfElements))
 listOfElements = removeEveryThird(sortAscending(listOfElements))
 print(listOfElements)
 
-listOfNames2 = ['janusz','marek','zofia','zuzanna','ada']
+listOfNames2 = ['janusz','marek','zofia','zuzanna','ada','katarzyna','barbara','kinga','karolina','erytrytol']
 for x in listOfNames2:
     listOfElements.append(Element(x))
     
