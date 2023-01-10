@@ -20,7 +20,7 @@ def sortAscending(listOfElements):
                 
     return listOfElements
 
-listOfNames = ['cyprian','eryk','adam','damian','bartosz','tomasz','maciej','krzysztof','marcin','michal','piotr','pawel','dawid','lukasz','mariusz','igor','wiktor','jerzy','waldemar','stanislaw','filip','konrad','mateusz','jaroslaw','slawomir','zbigniew', 'radosław','sebastian', 'szymon', 'karol']
+listOfNames = ['cyprian','eryk','adam','damian','bartosz','tomasz','maciej','krzysztof','marcin','michal','piotr','pawel','dawid','lukasz','mariusz','igor','wiktor','jerzy','waldemar','stanislaw','filip','konrad','mateusz','jaroslaw','slawomir','zbigniew', 'radosław','sebastian', 'szymon', 'karol','artur','arkadiusz','przemysław','robert','andrzej']
 
 listOfElements = []
 for x in listOfNames:
