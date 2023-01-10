@@ -21,6 +21,7 @@ def sortAscending(listOfElements):
     return listOfElements
 
 listOfNames = ['cyprian','eryk','adam','damian','bartosz','tomasz','maciej','krzysztof','marcin','michal','piotr','pawel','dawid','lukasz','mariusz']
+
 listOfElements = []
 for x in listOfNames:
     listOfElements.append(Element(x))
